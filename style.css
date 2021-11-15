@@ -1,0 +1,84 @@
+/* PARAGRAPHE */
+p{
+    color: blue;
+}
+
+.intro{
+    color: green;
+}
+
+label{
+    color: white;
+}
+
+h1{
+    font-family: sans-serif;
+    text-align: center;
+    color: white;
+    background-color: lightblue;
+}
+
+.menu1{
+    text-align: left;
+    font-family: sans-serif;
+    background-color: lightblue;
+}
+
+.xpro{
+    font-weight:bold ; 
+    text-align: center;
+    font-weight: bold;
+    background-color:lightblue;
+}
+
+.tr2{
+    background-color: lightgreen;
+}
+
+#formations{
+    text-align: center;
+    background-color: lightblue;
+    font-weight: normal;
+}
+
+.li2{
+    font-size: 25px;
+}
+
+.li1{
+    color: red;
+}
+
+.portfo{
+    text-align: center;
+    font-weight: bold;
+    background-color: cyan;
+}
+
+.contact1{
+    text-align: center;
+    opacity: 0.90;
+    color: darkblue;
+    background-color: lightblue;
+}
+
+form{
+    background-color: purple;
+}
+
+table {
+        border-width:1px; 
+        border-style:solid; 
+        border-color:black;
+        width:90%;
+}
+    
+td { 
+    border-width: 1px;
+    border-style:solid; 
+    border-color:black;
+    width:90%;
+    padding: 5px;
+    }
+
+   
