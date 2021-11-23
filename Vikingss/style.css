@@ -1,0 +1,166 @@
+
+table,tr,td{
+    border: solid 1.5px white;
+}
+.Titre2,.copy{
+    
+    color: white;
+}
+body{
+    background-color: #181818;
+}
+.container{
+    width: auto;
+    background: url(image/ivarhaut.png) no-repeat ;
+    background-position: center;
+    height: 787px;
+}
+.container h1{
+
+    position: absolute;
+    width: auto;
+    height: 162px;
+    left: 21px;
+    top: 333px;
+    font-size: 180px;
+    stroke: white;
+    color: #FFFFFF;
+    font-family: 'Song Myung';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 180px;
+    line-height: 106.5%;
+    mix-blend-mode: lighten;
+    
+}
+
+.Syno,.Conta,.Perso,.Saiso{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.container li{
+    font-weight: 200;
+    list-style-type: none;
+    float: left;
+    padding: 25px;
+    color: black;
+    size: 32px;
+    font-style: normal;
+
+}
+
+
+ #nav{
+     display: inline;
+ }
+ 
+ td{
+     color: white;
+ }
+ .tabltext{
+    padding: 18px;
+    font-family: 'Yaldevi Colombo';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 35px;
+    
+    color: #FFFFFF;
+    
+    border: 1px solid #FFFFFF;
+ }
+#ex1{
+    align-items: center;
+    justify-content: space-between;
+display: flex;
+width: auto;
+height: 675px;
+left: 0px;
+top: 1966px;
+
+background:url(image/vik.png) no-repeat ;
+
+box-shadow: inset -40px 20px 4px rgba(0, 0, 0, 0.25);
+}
+
+.Syno{
+ font-family: 'Yrsa';
+font-style: normal;
+font-weight: normal;
+font-size: 72px;
+line-height: 88px;
+
+color: #FFFFFF;
+
+
+    padding-top: 80px;
+}
+.Perso{
+    
+font-family: 'Yrsa';
+font-style: normal;
+font-weight: normal;
+font-size: 80px;
+line-height: 97px;
+
+color: #FFFFFF;
+
+    padding-top: 19px;
+}
+.Saiso{
+    padding-bottom: 48px;
+    font-family: "Yrsa";
+font-style: normal;
+font-weight: normal;
+font-size: 80px;
+line-height: 97px;
+
+color: #FFFFFF;
+
+}
+.Conta{
+    font-family: 'Yrsa';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 88px;
+    
+    color: #FFFFFF;
+    
+}
+.para{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+color: white;
+padding-left: 18px;
+}
+
+form{
+    text-align: center;
+    vertical-align: middle;
+}
+label{
+    vertical-align: middle;
+}
+.dataformm{
+    vertical-align: middle;
+}
+.dataform{
+    vertical-align: top;
+}
+
+button{
+    padding: 10px;
+    border-radius: 20.5px;
+    background-color: #8FEE90;
+}
+iframe{
+    border: white solid 2px;
+}
+.liens{
+    color: green;
+}
